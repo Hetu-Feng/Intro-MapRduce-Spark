@@ -1,4 +1,4 @@
 # Introductory-Spark
 
 
-some basic MapReduce and Spark data processing
+some basic MapReduce and Spark data processing from Hadoop in AWS
